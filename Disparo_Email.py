@@ -12,7 +12,7 @@ file_path = '/home/luizsiqueira/Documentos/disparo/bolsistas_2024.xlsx'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 sender_email = 'email@gmail.com' # Colocar E-mail 
-password = 'btvn kzjd nfwf rmbi'  # Substitua pela sua senha de app gerada 2fa
+password = 'btvn kzjd nfwf rmbi'  # Substitua pela sua senha de app gerada 2fa - Senha de Aplicativo do Google
 
 # Arquivo de log
 log_file = "emails_enviados_log.txt"
@@ -57,7 +57,7 @@ try:
     <p>Será oferecido aos participantes estudantes, <strong>horas extracurriculares (20 horas)</strong>, teremos a participação do Prefeito de Manaus e demais autoridades.</p>
     <p>As horas extracurriculares serão registradas, e todos os estudantes participantes que necessitar, receberão um certificado de participação ao final do evento. Portanto, não percam a oportunidade de prestigiar.</p>
     <p><strong>Obs.</strong> Para confirmar a presença é necessário registrar-se no link abaixo, para o recebimento das horas extracurriculares <strong>deverá chegar 30 minutos antes para assinar a lista de presença</strong>.</p>
-    <p><a href="https://forms.gle/15KtcvYxuoxz3qKC6">Clique aqui para se registrar.</a></p>
+    <p><a href="Link do forms">Clique aqui para se registrar.</a></p>
     <p>Contamos com a presença de todos vocês para fazer deste evento um sucesso.</p>
     <br>
     <p style="text-align:center; font-weight:bold;">
